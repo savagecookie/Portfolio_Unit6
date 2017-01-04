@@ -1,14 +1,17 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://www.google.com/search?safe=strict&espv=2&biw=1366&bih=638&tbm=isch&sa=1&q=cookies&oq=cookies&gs_l=img.3...916411.921574.0.922285.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.pUCpzkxDGbc");
       background-size: cover;
-      color: white;
     }
     .nav {
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 50px;
+      color: purple;font-size:
+        padding: 5px;
+      
+      
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -29,12 +32,18 @@
       margin: 0 auto;
     }
     @media (max-width: 500px) {
-      h1 {
-        font-size: 36px;
-        padding: 5px;
-      }
+      
       li {
         padding: 5px;
         display: block;
       }
     }
+    #tiger {
+      height:300px;
+      width:200px;
+    }
+    #pizza {
+      height:300px;
+      width:200px;
+    }
+    
